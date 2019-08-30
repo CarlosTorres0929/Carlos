@@ -5,3 +5,5 @@ Repositorio De Git
 Utilizando GitKraken
 
 Dveloper Carlos Torres 
+
+Ome Locota el manuel
